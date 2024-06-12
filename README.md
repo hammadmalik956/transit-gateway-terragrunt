@@ -13,7 +13,7 @@ To use this Terragrunt module, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the root directory of the repository.
-3. Ensure you have Terragrunt installed on your machine.
+3. Ensure you have Terragrunt and Terraform installed on your machine.
 4. Run the following command to apply the configurations:
 
    ```bash
